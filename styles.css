@@ -1,0 +1,41 @@
+
+
+body {
+  padding: 30px;
+  background-image: url("error.jpg");
+  background-repeat: no-repeat;
+  background-size: 2000px 1200px;
+  text-align: center;
+  height: 100%;
+  margin: 0;
+}
+
+div {
+
+
+}
+
+.button {
+  background-color: #322626;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+a:visited {
+  color: #6B6B6B;
+}
+
+a:hover {
+  color: red;
+}
+h1{
+  font-size: 80px;
+}
+
+p {
+  font-size: 30px;
+}
